@@ -36,13 +36,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CKKLIN&custom_title=CKKLIN's%20GitHub%20Activity%20|%20CKKLIN%20的%20GitHub%20活动图&bg_color=131313&color=F1F1F1&line=626069&point=B0E0E6&area_color=E0FFFF&title_color=87CEFA&area=true" width="90%">
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CKKLIN/CKKLIN/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CKKLIN/CKKLIN/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CKKLIN/CKKLIN/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
+</div> -->
 
 <div align="center">
    <h2 align="center"><strong> 😶‍🌫️ 项目展示 | Projects 😶‍🌫️ </strong></h2><br>
