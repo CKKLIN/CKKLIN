@@ -1,7 +1,7 @@
 <div align="center">
    <!-- <a href="https://CKKLIN.github.io/" target="_blank"> -->
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3397F7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+CKKLIN+,+A+college+student!" alt="" width="90%" align="middle"/>
-      <h3>你好，我是 CKKLIN，一名在校大学生！</h3>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3397F7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+MuErzhi+,+A+college+student!" alt="" width="90%" align="middle"/>
+      <h3>你好，我是木二支，一名在校大学生！</h3>
    <!-- </a> -->
 </div>
 
