@@ -44,6 +44,7 @@
   </picture>
 </div>
 
+<!-- PROJECTS:START -->
 <div align="center">
    <h2 align="center"><strong> 😶‍🌫️ 项目展示 | Projects 😶‍🌫️ </strong></h2><br>
    <a href="https://github.com/CKKLIN/starfall-springboot-web" target="_blank">
@@ -77,3 +78,4 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CKKLIN&theme=dark&repo=Housekeeping-springboot" width="49%" alt=""/>
   </a>
 </div>
+<!-- PROJECTS:END -->
