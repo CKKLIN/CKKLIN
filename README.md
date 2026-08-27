@@ -47,35 +47,29 @@
 <!-- PROJECTS:START -->
 <div align="center">
    <h2 align="center"><strong> 😶‍🌫️ 项目展示 | Projects 😶‍🌫️ </strong></h2><br>
-   <a href="https://github.com/CKKLIN/starfall-springboot-web" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CKKLIN&theme=dark&repo=starfall-springboot-web" width="49%" alt=""/>
+   <a href="https://github.com/CKKLIN/CKKLIN" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CKKLIN&theme=dark&repo=CKKLIN" width="49%" alt=""/>
   </a>
-  <a href="https://github.com/CKKLIN/SFMC" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CKKLIN&theme=dark&repo=SFMC" width="49%" alt=""/>
+   <a href="https://github.com/CKKLIN/MUERZHI-Multi-functional-AI-Floating-Ball" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CKKLIN&theme=dark&repo=MUERZHI-Multi-functional-AI-Floating-Ball" width="49%" alt=""/>
   </a>
-   <a href="https://github.com/CKKLIN/dorm408-LibrarySystem" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CKKLIN&theme=dark&repo=dorm408-LibrarySystem" width="49%" alt=""/>
+   <a href="https://github.com/CKKLIN/Erzhi-blog-vue3" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CKKLIN&theme=dark&repo=Erzhi-blog-vue3" width="49%" alt=""/>
   </a>
-   <a href="https://github.com/CKKLIN/SFMC-qml" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CKKLIN&theme=dark&repo=SFMC-qml" width="49%" alt=""/>
+   <a href="https://github.com/CKKLIN/CKKLIN.github.io" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CKKLIN&theme=dark&repo=CKKLIN.github.io" width="49%" alt=""/>
   </a>
-   <a href="https://github.com/CKKLIN/coffee-uniapp" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CKKLIN&theme=dark&repo=coffee-uniapp" width="49%" alt=""/>
+   <a href="https://github.com/CKKLIN/screen-capture---texture-tool" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CKKLIN&theme=dark&repo=screen-capture---texture-tool" width="49%" alt=""/>
   </a>
-   <a href="https://github.com/CKKLIN/coffee-springboot" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CKKLIN&theme=dark&repo=coffee-springboot" width="49%" alt=""/>
+   <a href="https://github.com/CKKLIN/ERZHI-Extract-Original-Back-End" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CKKLIN&theme=dark&repo=ERZHI-Extract-Original-Back-End" width="49%" alt=""/>
   </a>
-   <a href="https://github.com/CKKLIN/starfall-vue" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CKKLIN&theme=dark&repo=starfall-vue" width="49%" alt=""/>
+   <a href="https://github.com/CKKLIN/ERZHI-Extract-Original" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CKKLIN&theme=dark&repo=ERZHI-Extract-Original" width="49%" alt=""/>
   </a>
-   <a href="https://github.com/CKKLIN/starfall-springboot" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CKKLIN&theme=dark&repo=starfall-springboot" width="49%" alt=""/>
-  </a>
-   <a href="https://github.com/CKKLIN/Housekeeping-vue" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CKKLIN&theme=dark&repo=Housekeeping-vue" width="49%" alt=""/>
-  </a>
-   <a href="https://github.com/CKKLIN/Housekeeping-springboot" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CKKLIN&theme=dark&repo=Housekeeping-springboot" width="49%" alt=""/>
+   <a href="https://github.com/CKKLIN/universal-template-springboot" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CKKLIN&theme=dark&repo=universal-template-springboot" width="49%" alt=""/>
   </a>
 </div>
 <!-- PROJECTS:END -->
