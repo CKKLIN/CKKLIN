@@ -47,11 +47,11 @@
 <!-- PROJECTS:START -->
 <div align="center">
    <h2 align="center"><strong> 😶‍🌫️ 项目展示 | Projects 😶‍🌫️ </strong></h2><br>
-   <a href="https://github.com/CKKLIN/CKKLIN" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CKKLIN&theme=dark&repo=CKKLIN" width="49%" alt=""/>
-  </a>
    <a href="https://github.com/CKKLIN/MUERZHI-Multi-functional-AI-Floating-Ball" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CKKLIN&theme=dark&repo=MUERZHI-Multi-functional-AI-Floating-Ball" width="49%" alt=""/>
+  </a>
+   <a href="https://github.com/CKKLIN/CKKLIN" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CKKLIN&theme=dark&repo=CKKLIN" width="49%" alt=""/>
   </a>
    <a href="https://github.com/CKKLIN/Erzhi-blog-vue3" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CKKLIN&theme=dark&repo=Erzhi-blog-vue3" width="49%" alt=""/>
